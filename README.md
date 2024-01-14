@@ -3,13 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Building a SIEM through Wazuh, Elasticsearch and SOAR with Shuffle</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 - <b>Setting up a honeypot in Microsoft Azure and geolocating threat actors through an API</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b>Active Directory/b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
 
 <!--
