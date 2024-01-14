@@ -7,7 +7,7 @@
 
 - <b>Setting up a honeypot in Microsoft Azure and geolocating threat actors through an API</b>
 
-- <b>Active Directory/b>
+- <b>Active Directory</b>
 
 
 <!--
