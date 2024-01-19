@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building a SIEM with Wazuh, Elasticsearch and SOAR through Shuffle</b>
+- [<b>Building a SIEM with Wazuh, TheHive and SOAR through Shuffle</b>](https://github.com/Aiman-Ra/Setting-Up-SOAR-SIEM)
 
 
 - <b>Setting up a honeypot in Microsoft Azure and geolocating threat actors through an API</b>
