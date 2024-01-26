@@ -6,7 +6,7 @@
 
 - [<b>Investigating with Splunk and OSINT</b>](https://github.com/Aiman-Ra/Investigating-with-Splunk-and-OSINT)
 
-- [<b>Setting up a honeypot in Microsoft Azure and geolocating threat actors through an API</b>](https://github.com/Aiman-Ra/Setting-Up-a-Honeypot-in-Azure/tree/main)
+- [<b>Setting up a honeypot in Microsoft Azure and locating threat actors through an API</b>](https://github.com/Aiman-Ra/Setting-Up-a-Honeypot-in-Azure/tree/main)
 
 
 
