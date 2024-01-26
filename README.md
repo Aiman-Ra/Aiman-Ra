@@ -4,10 +4,9 @@
 
 - [<b>Building a SIEM with Wazuh, TheHive and SOAR through Shuffle</b>](https://github.com/Aiman-Ra/Setting-Up-SOAR-SIEM)
 
-* [<b>Investigating with Splunk and OSINT</b>](https://github.com/Aiman-Ra/Investigating-with-Splunk-and-OSINT)
+- [<b>Investigating with Splunk and OSINT</b>](https://github.com/Aiman-Ra/Investigating-with-Splunk-and-OSINT)
 
-
-- <b>Setting up a honeypot in Microsoft Azure and geolocating threat actors through an API</b>
+- [<b>Setting up a honeypot in Microsoft Azure and geolocating threat actors through an API</b>](https://github.com/Aiman-Ra/Setting-Up-a-Honeypot-in-Azure/tree/main)
 
 
 
