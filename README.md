@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [<b>Building a SIEM with Wazuh, TheHive and SOAR through Shuffle</b>](https://github.com/Aiman-Ra/Setting-Up-SOAR-SIEM)
+- [<b>Building a SIEM/SOAR with Wazuh, TheHive and Shuffle</b>](https://github.com/Aiman-Ra/Setting-Up-SOAR-SIEM)
 
 - [<b>Investigating with Splunk and OSINT</b>](https://github.com/Aiman-Ra/Investigating-with-Splunk-and-OSINT)
 
